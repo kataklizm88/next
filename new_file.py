@@ -1,1 +1,6 @@
 print('new file')
+
+
+"""
+OKOKOKOKOKOK
+"""
